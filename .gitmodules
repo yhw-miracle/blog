@@ -1,0 +1,9 @@
+[submodule "yhw-miracle.github.io"]
+	path = yhw-miracle.github.io
+	url = https://github.com/yhw-miracle/yhw-miracle.github.io.git
+[submodule "blog_frontend"]
+	path = blog_frontend
+	url = https://github.com/yhw-miracle/blog_frontend.git
+[submodule "blog_admin"]
+	path = blog_admin
+	url = https://github.com/yhw-miracle/blog_admin.git
